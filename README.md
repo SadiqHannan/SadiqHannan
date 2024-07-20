@@ -10,15 +10,13 @@
 
 - 🔭 I’m currently working on **DevSecOps**
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/sadiq-hannan/](https://www.linkedin.com/in/sadiq-hannan/)
-
 - 💬 Ask me about **AWS, AzureDevops, K8**
 
 - 📫 How to reach me **sadiq.hannan321@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/sadiq-hannan/](https://www.linkedin.com/in/sadiq-hannan/)
 
-- ⚡ Fun fact **DevSecOps**
+- ⚡ Fun fact **I promise not to hack your Instagram! Just here for the code, commits, and the occasional debugging adventure.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
