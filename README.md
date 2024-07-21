@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm MD Sadiq Hannan</h1>
 <h3 align="center">I'm passionate about DevOps. Specifically, I'm interested in exploring cloud computing, containerization, and automation to improve the software development and deployment process. I'm committed to constantly learning and experimenting with different DevOps tools and techniques to stay up-to-date with the latest advancements in the field.</h3>
 
-<img align="center" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="center" alt="Coding" width="1400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadiqhannan&label=Profile%20views&color=0e75b6&style=flat" alt="sadiqhannan" /> </p>
 
